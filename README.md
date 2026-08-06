@@ -15,6 +15,6 @@ A comprehensive penetration testing and security tool with 40+ modules for netwo
 ## Quick Install
 
 ```bash
-git clone https://github.com/yourusername/BlackTiger.git
+git clone https://github.com/b0b72/BlackTiger.git
 cd BlackTiger
 python3 blacktiger.py
